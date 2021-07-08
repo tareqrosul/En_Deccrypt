@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">En_Deccrypt</string>
+    <string name="string1">Encryption</string>
+    <string name="string2">Enter the text to encrypt</string>
+    <string name="s_hint">Enter Here</string>
+    <string name="shift_hint">Enter Shift</string>
+    <string name="Encrypt">Encrypt</string>
+    <string name="Clear">Clear</string>
+</resources>
